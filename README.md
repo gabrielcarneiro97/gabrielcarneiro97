@@ -1,6 +1,6 @@
 ### About me (EN) 😎
 
-Hi, my name is Gabriel and I'm an IT technician graduated from Federal University of Minas Gerais' Technical School and currently I'm studying software engineering at PUC-Minas. I'm a developer since 2014. My primary language is JavaScript, for both web (front and back-end) and native apps (React-Native and Electron). Beside Js, I know well C, C++, Python, Java, C# and Rust. Currently I'm focusing in learn new languages and technologies, especialy Rust and WebAssembly.
+Hi, my name is Gabriel and I'm an IT technician graduated from Federal University of Minas Gerais' Technical School and currently I'm studying software engineering at PUC-Minas. I'm a developer since 2014. My primary language is JavaScript, for both web (front and back-end) and native apps (React-Native and Electron). Beside Js, I know well C, C++, Python, Java, C# and Rust. Currently I'm focusing in learn new languages and technologies, especially Rust and WebAssembly.
 
 ### Sobre mim (PT-BR) 😊
 
